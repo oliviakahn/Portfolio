@@ -6,3 +6,6 @@ h2 {font-size:35px;
 li {color:mediumpurple}
 h1 {font-size:60px;
     color:indigo}
+.intro {margin-left:40px; margin-right:40px}
+#about {margin-bottom:40px}
+hr {margin-top:16px}
