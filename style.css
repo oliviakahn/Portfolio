@@ -1,11 +1,21 @@
 p {color:navy}
-div {border-color:slateblue;
-    border-style:solid}
+
 h2 {font-size:35px;
     color:indigo}
+
 li {color:mediumpurple}
-h1 {font-size:60px;
-    color:indigo}
-.intro {margin-left:40px; margin-right:40px}
+
+h1 {font-size:60px;color:indigo; position:sticky; top:0; margin-top:0}
+
+.intro {left:50px; right:50px}
+
+#profile {float:right; position:fixed; top:70px; right:50px}
+
 #about {margin-bottom:40px}
-hr {margin-top:16px}
+
+#introText {display:inline-block; width:50%}
+
+#introBox{width:40%; border-color:slateblue;
+    border-style:solid}
+
+hr {margin-top:60px}
