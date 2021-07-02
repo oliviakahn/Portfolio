@@ -7,15 +7,25 @@ li {color:mediumpurple}
 
 h1 {font-size:60px;color:indigo; position:sticky; top:0; margin-top:0}
 
-.intro {left:50px; right:50px}
+.intro {display:block}
 
-#profile {float:right; position:fixed; top:70px; right:50px}
+/* #profile {float:right; position:fixed; top:70px; right:50px} */
 
-#about {margin-bottom:40px}
+#about {margin-bottom:40px; width:50%}
 
 #introText {display:inline-block; width:50%}
 
-#introBox{width:40%; border-color:slateblue;
+#introBox {width:40%; border-color:slateblue;
     border-style:solid}
 
 hr {margin-top:60px}
+
+#header {background-color:lavender}
+
+#favorites {margin-bottom:40px}
+
+.fav {display:block; width:100%}
+
+#coffeeCups {float:right}
+
+#webpage {margin-left:100px; margin-right:100px}
